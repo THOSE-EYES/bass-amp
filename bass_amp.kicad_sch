@@ -1879,7 +1879,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "430K"
+		(property "Value" "432k"
 			(at 101.6 62.2299 0)
 			(effects
 				(font
@@ -1949,7 +1949,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150K"
+		(property "Value" "150k"
 			(at 73.66 85.0899 0)
 			(effects
 				(font
@@ -2019,7 +2019,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "250K"
+		(property "Value" "250k"
 			(at 92.71 85.0899 0)
 			(effects
 				(font
@@ -2092,7 +2092,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "9K"
+		(property "Value" "9.09k"
 			(at 110.49 85.0899 0)
 			(effects
 				(font
@@ -2162,7 +2162,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "8K"
+		(property "Value" "8.06k"
 			(at 82.55 62.2299 0)
 			(effects
 				(font
@@ -2232,7 +2232,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "650K"
+		(property "Value" "649k"
 			(at 101.6 85.0899 0)
 			(effects
 				(font
@@ -2446,7 +2446,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "890K"
+		(property "Value" "887k"
 			(at 73.66 62.2299 0)
 			(effects
 				(font
@@ -2515,7 +2515,7 @@
 				)
 			)
 		)
-		(property "Value" "60nF"
+		(property "Value" "62nF"
 			(at 93.98 67.31 90)
 			(effects
 				(font
@@ -2660,7 +2660,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 82.55 85.0899 0)
 			(effects
 				(font
@@ -2729,7 +2729,7 @@
 				)
 			)
 		)
-		(property "Value" "60nF"
+		(property "Value" "62nF"
 			(at 66.04 67.31 90)
 			(effects
 				(font
