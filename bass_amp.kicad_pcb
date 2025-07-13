@@ -2189,15 +2189,15 @@
 			)
 		)
 	)
-	(footprint "Custom_Connectors:Frieren"
+	(footprint "Custom_Logos:Frieren"
 		(layer "F.Cu")
-		(uuid "a3e69e4b-6b20-4dd3-9cf7-706e0ee1f56e")
-		(at 182.88 80.772)
+		(uuid "9b4b02a5-3f09-4560-beaa-e20d49ef0840")
+		(at 182.626 81.788)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "782a3ddf-852c-4b16-a832-dcdbf08cb3b9")
+			(uuid "abed78e2-d400-4551-ac26-4da6ef8b3e9b")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -2209,7 +2209,7 @@
 			(at 0.75 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "39bb6c3c-5fb3-445d-9538-57b1e0662b2a")
+			(uuid "7afd9eeb-7b29-40d1-aa21-993609032ae7")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -2221,7 +2221,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff017055-eaa6-4d37-a0c8-5b6916e6b1b9")
+			(uuid "e7d98fde-867f-47e3-a7f4-2ed04808887c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2233,7 +2233,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4c8763f3-37b0-4f49-bf32-ff566051d0a2")
+			(uuid "e2ce7269-7e2b-4d3a-b6e7-15ae492cc38b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2253,7 +2253,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "dc0a9127-9e96-440c-ab80-d406f6846033")
+			(uuid "a6080a03-0b67-456b-9452-875915225f64")
 		)
 		(fp_poly
 			(pts
@@ -2267,7 +2267,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "246aed9b-3a4c-4363-85d6-b2f3450cac02")
+			(uuid "b0917fdc-9899-4bd6-afac-671fd576fc8e")
 		)
 		(fp_poly
 			(pts
@@ -2282,7 +2282,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "bd2ee8cd-74af-4b1d-9b12-9bdd7945accd")
+			(uuid "38e59780-a0ac-4eda-a6df-e5fd645b8428")
 		)
 		(fp_poly
 			(pts
@@ -2297,7 +2297,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "a0a7dbd6-10bd-4163-b682-2096f3f64e04")
+			(uuid "e3ba273a-4bff-44f5-9866-bd4d8268708a")
 		)
 		(fp_poly
 			(pts
@@ -2314,7 +2314,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "104ef707-0ab2-4fbf-a90c-3cdce4a5f67f")
+			(uuid "84039250-bf45-4776-a666-67a344bb471a")
 		)
 		(fp_poly
 			(pts
@@ -2332,7 +2332,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "74873d6f-ef47-49c9-b110-3b077025d6ec")
+			(uuid "7e94ed43-4a8f-4249-875f-dc9bc029a576")
 		)
 		(fp_poly
 			(pts
@@ -2350,7 +2350,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "83da582a-2da4-4e4f-ae45-1593021024f9")
+			(uuid "29997429-7f90-49e4-98f5-8d1e932a6632")
 		)
 		(fp_poly
 			(pts
@@ -2370,7 +2370,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "6dabfd22-e10f-4e16-a64b-dee0fa9524ef")
+			(uuid "c70cb079-a249-45af-a6c8-884dec2d686c")
 		)
 		(fp_poly
 			(pts
@@ -2389,7 +2389,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "91eb6a65-f905-4371-be21-7078a87017d7")
+			(uuid "d95e5381-330a-40c8-80fd-18bb56cdb9de")
 		)
 		(fp_poly
 			(pts
@@ -2407,7 +2407,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "33fe4dfc-63d6-49fc-98e9-bba454ce4392")
+			(uuid "cf40dd66-a206-4eb7-96db-5142e89dff93")
 		)
 		(fp_poly
 			(pts
@@ -2426,7 +2426,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "d2d2db34-1471-42c3-9161-5f50a809f18c")
+			(uuid "8c1d1107-6402-4649-8146-99e631ede256")
 		)
 		(fp_poly
 			(pts
@@ -2448,7 +2448,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "a84b200a-7660-4ecf-9c95-d80aeec37fe0")
+			(uuid "22d10bd2-c88c-41a3-9019-14d9462f1d71")
 		)
 		(fp_poly
 			(pts
@@ -2470,7 +2470,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "9d045ca3-e26d-4182-835a-c547eb13630d")
+			(uuid "854930a2-7e91-4d0a-86d7-9d86b95b6fa4")
 		)
 		(fp_poly
 			(pts
@@ -2493,7 +2493,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "7a9badf5-214a-45fa-9c0a-68cd97b9dac5")
+			(uuid "598daba4-d548-42b9-9680-64d78b531178")
 		)
 		(fp_poly
 			(pts
@@ -2518,7 +2518,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "822b7fba-0710-45f3-98fb-3c65dd827e3d")
+			(uuid "6a83aef6-f38c-4d87-aacb-4b533018fc39")
 		)
 		(fp_poly
 			(pts
@@ -3201,7 +3201,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "6f575dd2-5683-4ac1-8a6c-6cbbb7a3c12b")
+			(uuid "624c695f-04b9-40d8-94ad-02da8cdbfb4e")
 		)
 		(embedded_fonts no)
 	)
